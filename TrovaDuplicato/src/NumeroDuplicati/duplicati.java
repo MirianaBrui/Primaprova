@@ -6,7 +6,7 @@ public class duplicati {
 		 // Dichiarazione dell'array di numeri interi
         int[] array = {4, 3, 2, 7, 8, 2, 3, 1, 8};
 
-        System.out.print("Elementi duplicati: ");
+        System.out.print("duplicati: ");
         
 
         
